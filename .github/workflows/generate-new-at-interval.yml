@@ -1,0 +1,34 @@
+name: Generate New At Interval
+on:
+  schedule:
+    # Could randomize... but not going to for now - run every on the *:33 minute of a few different hours
+    - cron: '33 0,3,7,11,15,19 * * *'
+permissions:
+  id-token: write
+  pages: write
+jobs:
+  generate:
+    timeout-minutes: 60
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
+        with:
+          global: true
+          token: '${{ secrets.GITHUB_TOKEN }}'
+          name: '${{ secrets.CHECKIN_NAME }}'
+          email: '${{ secrets.CHECKIN_EMAIL }}'
+
+      # Run the generator
+      - name: Compile New Name
+        run: npm run generate
+
+      

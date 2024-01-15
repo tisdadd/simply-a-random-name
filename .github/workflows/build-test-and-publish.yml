@@ -1,0 +1,58 @@
+name: Build, Test, and Publish
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+permissions:
+  id-token: write
+  pages: write
+jobs:
+  build-and-test:
+    timeout-minutes: 60
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      # Quickest tests to run
+      - name: Unit Tests
+        run: npm run jest:ci
+
+      # Compile New Name
+      - name: Compile New Name
+        run: npm run build
+
+      - name: Archive Production Artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: compiled-library
+          path: |
+            dist
+            readme.md
+            package.json
+            LICENSE
+
+  publish:
+    timeout-minutes: 20
+    needs: build-and-test
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20
+      - name: Download the Built Artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: compiled-library
+
+      - name: Publish Library using Built Artifact
+        uses: JS-DevTools/npm-publish@v3
+        with:
+          token: ${{ secrets.NPM_PUBLISHING_TOKEN }}
