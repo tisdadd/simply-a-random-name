@@ -1,0 +1,35 @@
+{
+  "name": "simply-a-random-name",
+  "version": "1.0.0",
+  "description": "Simply gives a random name from faker.js",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "lint": "standard",
+    "lint-fix": "standard --fix",
+    "jest": "jest --watch",
+    "jest:ci": "jest --ci",
+    "build": "rimraf ./dist && tsup",
+    "generate": "ts-node generate.ts"
+  },
+  "author": "Michael Adsit",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.23.8",
+    "@babel/preset-typescript": "^7.23.3",
+    "@faker-js/faker": "^8.3.1",
+    "@jest/globals": "^29.7.0",
+    "@types/jest": "^29.5.11",
+    "@types/node": "^20.11.2",
+    "rimraf": "^5.0.5",
+    "standard": "^17.1.0",
+    "ts-jest": "^29.1.1",
+    "ts-node": "^10.9.2",
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3"
+  }
+}
