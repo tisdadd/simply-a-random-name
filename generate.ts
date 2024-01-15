@@ -7,6 +7,8 @@ async function main () {
 
   fs.writeFileSync('index.ts', `export default '${personName}'`)
 
+  await terminalProcess`npm run jest:ci`
+
   const packageJSON = fs.readJSONSync('package.json')
   const currentVersionSplit = packageJSON.version.split('.')
   currentVersionSplit[2] = (parseInt(currentVersionSplit[2]) + 1).toString()
