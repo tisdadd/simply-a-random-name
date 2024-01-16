@@ -24,12 +24,10 @@ jobs:
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           global: true
+          actor: '${{ secrets.CHECKIN_USERNAME }}'
           token: '${{ secrets.SSH_KEY }}'
           name: '${{ secrets.CHECKIN_NAME }}'
           email: '${{ secrets.CHECKIN_EMAIL }}'
-      
-      - name: check-config
-        run: git config --list --show-origin
 
       # Run the generator
       - name: Compile New Name
