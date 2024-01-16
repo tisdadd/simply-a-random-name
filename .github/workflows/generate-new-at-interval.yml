@@ -1,5 +1,6 @@
 name: Generate New At Interval
 on:
+  workflow_dispatch:
   schedule:
     # Could randomize... but not going to for now - run every on the *:33 minute of a few different hours
     - cron: '33 0,3,7,11,15,19 * * *'
@@ -23,7 +24,7 @@ jobs:
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           global: true
-          token: '${{ secrets.GITHUB_TOKEN }}'
+          token: '${{ secrets.SSH_KEY }}'
           name: '${{ secrets.CHECKIN_NAME }}'
           email: '${{ secrets.CHECKIN_EMAIL }}'
 
