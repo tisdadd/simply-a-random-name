@@ -27,6 +27,9 @@ jobs:
           token: '${{ secrets.SSH_KEY }}'
           name: '${{ secrets.CHECKIN_NAME }}'
           email: '${{ secrets.CHECKIN_EMAIL }}'
+      
+      - name: check-config
+        run: git config --list --show-origin
 
       # Run the generator
       - name: Compile New Name
