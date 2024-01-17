@@ -1,1 +1,1 @@
-export default 'Marshall Hermann Jr.'
+export default 'Jeremy McLaughlin'
