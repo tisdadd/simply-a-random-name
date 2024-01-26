@@ -1,1 +1,1 @@
-export default 'Dr. Dominic Schowalter DVM'
+export default 'Sandra Abernathy'
