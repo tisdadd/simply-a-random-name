@@ -1,1 +1,1 @@
-export default 'Miranda Pollich'
+export default 'Maria Legros'
