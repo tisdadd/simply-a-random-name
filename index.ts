@@ -1,1 +1,1 @@
-export default 'Nina Wolff'
+export default 'Miranda Pollich'
