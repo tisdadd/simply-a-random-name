@@ -1,1 +1,1 @@
-export default 'Peggy MacGyver'
+export default 'Don Douglas'
