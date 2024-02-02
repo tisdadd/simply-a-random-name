@@ -1,1 +1,1 @@
-export default 'Whitney Hoppe V'
+export default 'Samuel Blanda Jr.'
