@@ -1,1 +1,1 @@
-export default 'Samuel Blanda Jr.'
+export default 'Gordon Schmidt'
