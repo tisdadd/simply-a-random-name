@@ -1,1 +1,1 @@
-export default 'Gordon Schmidt'
+export default 'Kent Schmitt Jr.'
