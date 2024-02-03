@@ -1,1 +1,1 @@
-export default 'Kent Schmitt Jr.'
+export default 'Ethel Johns'
