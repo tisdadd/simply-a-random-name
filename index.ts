@@ -1,1 +1,1 @@
-export default 'Sandra Connelly'
+export default 'Pauline Mueller'
