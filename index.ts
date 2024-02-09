@@ -1,1 +1,1 @@
-export default 'Edna Ward DDS'
+export default 'Jacquelyn Schiller DVM'
