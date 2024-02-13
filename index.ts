@@ -1,1 +1,1 @@
-export default 'Terrell Strosin PhD'
+export default 'Edward Runolfsson'
