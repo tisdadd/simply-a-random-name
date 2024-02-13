@@ -1,1 +1,1 @@
-export default 'Jerry Oberbrunner DDS'
+export default 'Terrell Strosin PhD'
