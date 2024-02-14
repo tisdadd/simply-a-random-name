@@ -1,1 +1,1 @@
-export default 'Violet Kuphal'
+export default 'Russell MacGyver'
