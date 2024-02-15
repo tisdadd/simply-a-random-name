@@ -1,1 +1,1 @@
-export default 'Dr. Rhonda Deckow'
+export default 'Garry Jast'
