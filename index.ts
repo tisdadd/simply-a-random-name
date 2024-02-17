@@ -1,1 +1,1 @@
-export default 'Angelo McDermott'
+export default 'Clark Jakubowski'
