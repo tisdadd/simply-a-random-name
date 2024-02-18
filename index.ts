@@ -1,1 +1,1 @@
-export default 'Clark Jakubowski'
+export default 'Miss Carol Hirthe'
