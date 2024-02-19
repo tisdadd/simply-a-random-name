@@ -1,1 +1,1 @@
-export default 'Ricky Goldner'
+export default 'Scott Strosin'
