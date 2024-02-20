@@ -1,1 +1,1 @@
-export default 'Darla Stark'
+export default 'Lindsay Stroman'
