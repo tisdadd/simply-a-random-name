@@ -1,1 +1,1 @@
-export default 'Jane Price'
+export default 'Kent Daugherty-Dooley II'
