@@ -1,1 +1,1 @@
-export default 'Kent Daugherty-Dooley II'
+export default 'Wallace Walter'
