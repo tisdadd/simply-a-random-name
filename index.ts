@@ -1,1 +1,1 @@
-export default 'Roman Schmitt II'
+export default 'Valerie Adams-Konopelski'
