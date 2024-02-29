@@ -1,1 +1,1 @@
-export default 'Valerie Adams-Konopelski'
+export default 'Jared Metz'
