@@ -1,1 +1,1 @@
-export default 'Delores Ratke PhD'
+export default 'Raymond Gerhold-Wyman'
