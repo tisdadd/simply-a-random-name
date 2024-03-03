@@ -1,1 +1,1 @@
-export default 'Patrick Kertzmann'
+export default 'Lois Larson Jr.'
