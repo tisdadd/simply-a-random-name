@@ -1,1 +1,1 @@
-export default 'Max Russel'
+export default 'Stewart Hintz'
