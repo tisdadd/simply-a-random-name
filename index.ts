@@ -1,1 +1,1 @@
-export default 'Everett Weber DDS'
+export default 'Dr. Shelia Grady'
