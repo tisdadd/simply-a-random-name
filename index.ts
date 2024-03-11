@@ -1,1 +1,1 @@
-export default 'Sheldon Koch'
+export default 'Dr. Trevor Pouros'
