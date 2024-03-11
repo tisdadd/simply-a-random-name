@@ -1,1 +1,1 @@
-export default 'Dr. Trevor Pouros'
+export default 'Johanna Blanda'
