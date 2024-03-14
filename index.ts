@@ -1,1 +1,1 @@
-export default 'Tricia Green Jr.'
+export default 'Betty Lockman'
