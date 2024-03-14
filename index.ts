@@ -1,1 +1,1 @@
-export default 'Lamar MacGyver'
+export default 'Jana Stark'
