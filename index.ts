@@ -1,1 +1,1 @@
-export default 'Ramiro Wyman'
+export default 'Lester Boyer PhD'
