@@ -1,1 +1,1 @@
-export default 'Dominic Hudson'
+export default 'Opal DuBuque PhD'
