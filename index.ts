@@ -1,1 +1,1 @@
-export default 'Rita Larkin'
+export default 'Delia Osinski'
