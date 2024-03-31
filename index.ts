@@ -1,1 +1,1 @@
-export default 'Kara Satterfield'
+export default 'Carol Kihn'
