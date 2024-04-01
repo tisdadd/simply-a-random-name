@@ -1,1 +1,1 @@
-export default 'Mrs. Emma Prohaska'
+export default 'Sonja Hintz'
