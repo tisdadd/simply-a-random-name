@@ -1,1 +1,1 @@
-export default 'Dwayne Heathcote DDS'
+export default 'Terence Gutmann'
