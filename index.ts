@@ -1,1 +1,1 @@
-export default 'Jeanette Jerde DVM'
+export default 'Earnest Stokes'
