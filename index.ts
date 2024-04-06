@@ -1,1 +1,1 @@
-export default 'Dr. Irving Wiza'
+export default 'Carole Hamill'
