@@ -1,1 +1,1 @@
-export default 'Blanche Ledner DVM'
+export default 'Dr. Kayla Schamberger'
