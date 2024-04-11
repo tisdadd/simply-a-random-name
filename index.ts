@@ -1,1 +1,1 @@
-export default 'Simon Weimann'
+export default 'Wanda Goodwin'
