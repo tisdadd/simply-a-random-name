@@ -1,1 +1,1 @@
-export default 'Marie Pacocha'
+export default 'Alfredo Wolf-Kulas'
