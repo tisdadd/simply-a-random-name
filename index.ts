@@ -1,1 +1,1 @@
-export default 'Ms. Celia Rippin Jr.'
+export default 'Stanley Lowe'
