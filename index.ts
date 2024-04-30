@@ -1,1 +1,1 @@
-export default 'Patti Strosin'
+export default 'Kelly Wolf'
