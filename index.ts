@@ -1,1 +1,1 @@
-export default 'Edmond Price V'
+export default 'Patti Strosin'
