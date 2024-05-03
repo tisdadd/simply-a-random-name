@@ -1,1 +1,1 @@
-export default 'Marion Borer'
+export default 'Duane King'
