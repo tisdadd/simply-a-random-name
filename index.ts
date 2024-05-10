@@ -1,1 +1,1 @@
-export default 'Manuel Yundt MD'
+export default 'Bryan VonRueden'
