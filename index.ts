@@ -1,1 +1,1 @@
-export default 'Israel Daugherty-Price PhD'
+export default 'Kristie Quitzon PhD'
