@@ -1,1 +1,1 @@
-export default 'Kristie Quitzon PhD'
+export default 'Russell Funk'
