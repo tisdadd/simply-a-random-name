@@ -1,1 +1,1 @@
-export default 'Kendra Raynor'
+export default 'Frederick Doyle'
