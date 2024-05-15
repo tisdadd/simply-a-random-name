@@ -1,1 +1,1 @@
-export default 'Ginger Ritchie'
+export default 'Lois Bahringer'
