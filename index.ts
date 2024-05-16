@@ -1,1 +1,1 @@
-export default 'Kerry Abernathy-Kilback'
+export default 'Sylvester Denesik'
