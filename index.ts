@@ -1,1 +1,1 @@
-export default 'Tanya Price'
+export default 'Mr. Bernard Lakin'
