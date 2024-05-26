@@ -1,1 +1,1 @@
-export default 'Dr. Wilbert Graham II'
+export default 'Tanya Price'
