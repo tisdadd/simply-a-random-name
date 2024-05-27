@@ -1,1 +1,1 @@
-export default 'Dr. Katherine Bahringer'
+export default 'Dale Considine'
