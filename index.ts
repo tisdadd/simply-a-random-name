@@ -1,1 +1,1 @@
-export default 'Mark Reynolds Jr.'
+export default 'Dr. Katherine Bahringer'
