@@ -1,1 +1,1 @@
-export default 'Loretta Heathcote'
+export default 'Dr. Shannon Schroeder-Schneider'
