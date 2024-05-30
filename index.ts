@@ -1,1 +1,1 @@
-export default 'Dr. Shannon Schroeder-Schneider'
+export default 'Kristy Wyman'
