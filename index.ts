@@ -1,1 +1,1 @@
-export default 'Kimberly Marvin I'
+export default 'Mr. Stanley McGlynn'
