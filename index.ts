@@ -1,1 +1,1 @@
-export default 'Joanna Simonis'
+export default 'Leon Durgan'
