@@ -1,1 +1,1 @@
-export default 'Mr. Vincent Christiansen'
+export default 'Mack Hayes PhD'
