@@ -1,1 +1,1 @@
-export default 'Ricky Paucek'
+export default 'Randall Purdy'
