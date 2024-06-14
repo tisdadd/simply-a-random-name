@@ -1,1 +1,1 @@
-export default 'Vincent Hoeger'
+export default 'Jose Armstrong-Sanford'
