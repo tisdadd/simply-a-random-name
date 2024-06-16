@@ -1,1 +1,1 @@
-export default 'Bertha Konopelski'
+export default 'Dr. Gayle Hyatt'
