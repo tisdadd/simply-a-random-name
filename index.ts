@@ -1,1 +1,1 @@
-export default 'Anna Pacocha'
+export default 'Dr. Wesley Lubowitz'
