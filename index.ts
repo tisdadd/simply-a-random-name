@@ -1,1 +1,1 @@
-export default 'Reginald Corwin'
+export default 'Simon Goldner'
