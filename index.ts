@@ -1,1 +1,1 @@
-export default 'Angie Marquardt-Strosin'
+export default 'Rudolph Crooks Sr.'
