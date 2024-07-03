@@ -1,1 +1,1 @@
-export default 'Lowell Mante'
+export default 'Dr. Thomas Koss'
