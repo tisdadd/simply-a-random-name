@@ -1,1 +1,1 @@
-export default 'Johnny Ebert'
+export default 'Lila Klein'
