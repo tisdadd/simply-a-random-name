@@ -1,1 +1,1 @@
-export default 'Kristina Gleichner II'
+export default 'Dr. Rosemarie Hand'
