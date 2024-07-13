@@ -1,1 +1,1 @@
-export default 'Dr. Glen Mills'
+export default 'Dominic Dickinson'
