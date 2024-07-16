@@ -1,1 +1,1 @@
-export default 'Dr. Joshua Predovic'
+export default 'Randy Johnson'
