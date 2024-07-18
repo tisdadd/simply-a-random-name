@@ -1,1 +1,1 @@
-export default 'Pedro Bailey'
+export default 'Tommie McDermott'
