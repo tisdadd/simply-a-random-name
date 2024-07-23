@@ -1,1 +1,1 @@
-export default 'Hilda Strosin'
+export default 'Roosevelt Douglas III'
