@@ -1,1 +1,1 @@
-export default 'Wanda Bashirian'
+export default 'Derek Jaskolski MD'
