@@ -1,1 +1,1 @@
-export default 'Frankie Bayer'
+export default 'Benny Stehr'
