@@ -1,1 +1,1 @@
-export default 'Gustavo Schuster'
+export default 'Wayne Reynolds'
