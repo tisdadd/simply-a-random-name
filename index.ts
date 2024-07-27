@@ -1,1 +1,1 @@
-export default 'Wayne Reynolds'
+export default 'Salvador Jerde Jr.'
