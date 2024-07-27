@@ -1,1 +1,1 @@
-export default 'Eleanor Davis'
+export default 'Hector Collier'
