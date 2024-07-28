@@ -1,1 +1,1 @@
-export default 'Emmett Labadie V'
+export default 'Earl Parisian'
