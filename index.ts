@@ -1,1 +1,1 @@
-export default 'Dr. Nelson Kassulke'
+export default 'Myron Cole Jr.'
