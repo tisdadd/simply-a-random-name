@@ -1,1 +1,1 @@
-export default 'Maurice Stroman'
+export default 'Mr. Jay Wisoky'
