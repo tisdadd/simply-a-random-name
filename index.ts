@@ -1,1 +1,1 @@
-export default 'Francis Smith'
+export default 'Maurice Stroman'
