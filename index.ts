@@ -1,1 +1,1 @@
-export default 'Kenneth Russel'
+export default 'Jared Ward DDS'
