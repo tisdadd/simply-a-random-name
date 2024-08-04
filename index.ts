@@ -1,1 +1,1 @@
-export default 'Danny Rice MD'
+export default 'Darryl Lockman'
