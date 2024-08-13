@@ -1,1 +1,1 @@
-export default 'Harry Cronin'
+export default 'Sonia Bailey'
