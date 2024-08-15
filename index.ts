@@ -1,1 +1,1 @@
-export default 'Jeanne Konopelski DDS'
+export default 'Mathew Thompson'
