@@ -1,1 +1,1 @@
-export default 'Miss Faith Bins'
+export default 'John Wiegand'
