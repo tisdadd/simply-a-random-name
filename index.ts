@@ -1,1 +1,1 @@
-export default 'Randolph Nolan'
+export default 'Mr. Hector Dicki'
