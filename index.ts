@@ -1,1 +1,1 @@
-export default 'Mr. Hector Dicki'
+export default 'Mr. Oscar Haag-Torp'
