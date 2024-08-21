@@ -1,1 +1,1 @@
-export default 'Sammy Reichel'
+export default 'David Shanahan'
