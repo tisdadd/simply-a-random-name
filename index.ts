@@ -1,1 +1,1 @@
-export default 'Max McGlynn'
+export default 'Mrs. Gloria Altenwerth'
