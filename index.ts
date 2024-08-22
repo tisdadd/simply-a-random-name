@@ -1,1 +1,1 @@
-export default 'Dr. Vera Pfannerstill'
+export default 'Leon Greenfelder-Collier'
