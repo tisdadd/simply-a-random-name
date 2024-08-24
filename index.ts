@@ -1,1 +1,1 @@
-export default 'Neil Schroeder'
+export default 'Duane Miller'
