@@ -1,1 +1,1 @@
-export default 'Duane Miller'
+export default 'Kayla Friesen'
