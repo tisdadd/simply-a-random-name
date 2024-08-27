@@ -1,1 +1,1 @@
-export default 'Joann Bayer DVM'
+export default 'Dr. Bennie Watsica'
