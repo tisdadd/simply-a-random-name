@@ -1,1 +1,1 @@
-export default 'Earnest Kub DVM'
+export default 'Dr. Derek Wuckert'
