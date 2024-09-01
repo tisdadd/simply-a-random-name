@@ -1,1 +1,1 @@
-export default 'Mark Jast'
+export default 'Gina Strosin'
