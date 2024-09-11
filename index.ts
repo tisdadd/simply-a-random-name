@@ -1,1 +1,1 @@
-export default 'Joyce Bednar'
+export default 'Vera Parisian'
