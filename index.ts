@@ -1,1 +1,1 @@
-export default 'Vera Parisian'
+export default 'Pearl Littel'
