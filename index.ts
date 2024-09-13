@@ -1,1 +1,1 @@
-export default 'Douglas Rodriguez'
+export default 'Janis Hansen'
