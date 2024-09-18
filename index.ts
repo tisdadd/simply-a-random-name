@@ -1,1 +1,1 @@
-export default 'Tasha Renner'
+export default 'Daryl Lakin'
