@@ -1,1 +1,1 @@
-export default 'Dr. Wilbur Haley'
+export default 'Johnnie Bayer-Windler'
