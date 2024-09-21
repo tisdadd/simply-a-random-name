@@ -1,1 +1,1 @@
-export default 'Cindy McKenzie III'
+export default 'Clyde Braun Jr.'
