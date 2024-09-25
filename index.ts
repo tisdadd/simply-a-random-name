@@ -1,1 +1,1 @@
-export default 'Ellen Halvorson Sr.'
+export default 'Jo Runolfsdottir'
