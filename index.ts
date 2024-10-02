@@ -1,1 +1,1 @@
-export default 'Courtney Purdy'
+export default 'Pearl Hirthe'
