@@ -1,1 +1,1 @@
-export default 'Kara Jast'
+export default 'Delores Bogisich'
