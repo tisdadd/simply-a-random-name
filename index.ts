@@ -1,1 +1,1 @@
-export default 'Arthur Flatley'
+export default 'Janis Brown'
