@@ -1,1 +1,1 @@
-export default 'Carole Anderson'
+export default 'Carol Thompson'
