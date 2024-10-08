@@ -1,1 +1,1 @@
-export default 'Regina Hilpert'
+export default 'Rex Kassulke MD'
