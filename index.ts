@@ -1,1 +1,1 @@
-export default 'Dennis Wehner'
+export default 'Dr. Cameron Lang'
