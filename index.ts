@@ -1,1 +1,1 @@
-export default 'Lucia Gleichner'
+export default 'Ricardo Swaniawski'
