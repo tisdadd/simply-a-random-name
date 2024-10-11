@@ -1,1 +1,1 @@
-export default 'Kelley Armstrong Jr.'
+export default 'Bradford Yost'
