@@ -1,1 +1,1 @@
-export default 'Santos Weimann'
+export default 'Rodolfo Fritsch Sr.'
