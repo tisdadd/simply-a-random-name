@@ -1,6 +1,6 @@
 {
   "name": "simply-a-random-name",
-  "version": "1.0.1596",
+  "version": "1.0.1597",
   "description": "Simply gives a random name from faker.js",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
