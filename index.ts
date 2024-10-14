@@ -1,1 +1,1 @@
-export default 'Lori Skiles-Koch'
+export default 'Pedro Miller'
