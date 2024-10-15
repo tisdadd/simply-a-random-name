@@ -1,1 +1,1 @@
-export default 'Irving Johns'
+export default 'Claude Kihn'
