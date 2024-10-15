@@ -1,1 +1,1 @@
-export default 'Claude Kihn'
+export default 'Valerie Lang IV'
