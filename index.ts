@@ -1,1 +1,1 @@
-export default 'Mr. Wm Hoppe'
+export default 'Ted Dickinson'
