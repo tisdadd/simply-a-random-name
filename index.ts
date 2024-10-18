@@ -1,1 +1,1 @@
-export default 'Garrett Gulgowski PhD'
+export default 'Ricky Ledner'
