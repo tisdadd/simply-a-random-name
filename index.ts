@@ -1,1 +1,1 @@
-export default 'Andy Terry'
+export default 'Dr. Randy Bradtke-Mosciski'
