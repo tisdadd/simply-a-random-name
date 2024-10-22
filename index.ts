@@ -1,1 +1,1 @@
-export default 'Mr. Corey Weimann'
+export default 'Corey Kassulke'
