@@ -1,1 +1,1 @@
-export default 'Percy Romaguera'
+export default 'Mr. Arnold Wiegand'
