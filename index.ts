@@ -1,1 +1,1 @@
-export default 'Luz Weimann'
+export default 'Jean Douglas'
