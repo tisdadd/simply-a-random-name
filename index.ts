@@ -1,1 +1,1 @@
-export default 'Oscar Klocko'
+export default 'Minnie Abernathy'
