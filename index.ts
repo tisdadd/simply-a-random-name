@@ -1,1 +1,1 @@
-export default 'Dolores Schuppe'
+export default 'Hugo Steuber'
