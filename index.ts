@@ -1,1 +1,1 @@
-export default 'Kelly Osinski'
+export default 'Dr. Pat Aufderhar'
