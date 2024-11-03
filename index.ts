@@ -1,1 +1,1 @@
-export default 'Dr. Pat Aufderhar'
+export default 'Chad Brekke'
