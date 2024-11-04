@@ -1,1 +1,1 @@
-export default 'Oliver Stamm IV'
+export default 'Paula Weber'
