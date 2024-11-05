@@ -1,1 +1,1 @@
-export default 'Ted Ullrich-Macejkovic'
+export default 'Vernon Buckridge'
