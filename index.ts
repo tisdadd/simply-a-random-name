@@ -1,1 +1,1 @@
-export default 'Dr. Lois Williamson-Mertz'
+export default 'Tamara Osinski'
