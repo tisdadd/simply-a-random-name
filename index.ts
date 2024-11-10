@@ -1,1 +1,1 @@
-export default 'Ollie Hermiston'
+export default 'Shawn Purdy III'
