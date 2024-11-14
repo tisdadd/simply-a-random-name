@@ -1,1 +1,1 @@
-export default 'Rita Bruen'
+export default 'Mario Kuvalis'
