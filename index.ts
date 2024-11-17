@@ -1,1 +1,1 @@
-export default 'Bernard Jacobson'
+export default 'Michelle Schuster'
