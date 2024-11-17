@@ -1,1 +1,1 @@
-export default 'Shane Rippin'
+export default 'Patrick Raynor'
