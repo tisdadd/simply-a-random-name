@@ -1,1 +1,1 @@
-export default 'Josh Legros'
+export default 'Luther Smith'
