@@ -1,1 +1,1 @@
-export default 'Mrs. Charlotte Cruickshank'
+export default 'Herman Langosh'
