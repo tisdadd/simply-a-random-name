@@ -1,1 +1,1 @@
-export default 'Dr. Sergio Kulas'
+export default 'Katrina Jones DVM'
