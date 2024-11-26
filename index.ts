@@ -1,1 +1,1 @@
-export default 'Tina Bogan'
+export default 'Conrad Prohaska-Wilderman'
