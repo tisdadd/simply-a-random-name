@@ -1,1 +1,1 @@
-export default 'Miss Kimberly Herzog DDS'
+export default 'Alejandro Luettgen'
