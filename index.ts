@@ -1,1 +1,1 @@
-export default 'Connie Cruickshank'
+export default 'Johnathan Bernhard'
