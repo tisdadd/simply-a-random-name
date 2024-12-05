@@ -1,1 +1,1 @@
-export default 'Larry Swift'
+export default 'Dr. Willard Renner'
