@@ -1,1 +1,1 @@
-export default 'Elvira Lind II'
+export default 'Eric McClure-Rice IV'
