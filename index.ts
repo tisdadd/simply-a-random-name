@@ -1,1 +1,1 @@
-export default 'Jason Langworth'
+export default 'Dr. Eric Simonis'
