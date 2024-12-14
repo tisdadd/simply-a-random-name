@@ -1,1 +1,1 @@
-export default 'Jacqueline Franecki'
+export default 'Jeanne Schinner'
