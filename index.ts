@@ -1,1 +1,1 @@
-export default 'Dr. Geoffrey Kutch II'
+export default 'Lance Dibbert'
