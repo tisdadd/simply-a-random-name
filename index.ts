@@ -1,1 +1,1 @@
-export default 'Tamara Blanda'
+export default 'Juana Yost II'
