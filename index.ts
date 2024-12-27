@@ -1,1 +1,1 @@
-export default 'Mr. Lionel Schumm DDS'
+export default 'Steve Ebert'
