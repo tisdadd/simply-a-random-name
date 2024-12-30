@@ -1,1 +1,1 @@
-export default 'Sonja Zulauf'
+export default 'Edmund Kuvalis'
