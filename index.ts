@@ -1,1 +1,1 @@
-export default 'Terrell Ruecker PhD'
+export default 'Mr. Darrell Kunde'
