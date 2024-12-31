@@ -1,1 +1,1 @@
-export default 'Phyllis Cruickshank'
+export default 'Arthur Kling Sr.'
