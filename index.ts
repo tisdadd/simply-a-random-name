@@ -1,1 +1,1 @@
-export default 'Garry Lowe'
+export default 'Gerald Quigley'
