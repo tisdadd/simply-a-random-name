@@ -1,1 +1,1 @@
-export default 'Gerald Quigley'
+export default 'Dorothy Kub'
