@@ -1,1 +1,1 @@
-export default 'Stella Weber'
+export default 'Cornelius Lind'
