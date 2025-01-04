@@ -1,1 +1,1 @@
-export default 'Nicholas Schamberger'
+export default 'Vincent Stracke'
