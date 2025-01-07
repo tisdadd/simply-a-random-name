@@ -1,1 +1,1 @@
-export default 'Ronnie Kohler'
+export default 'Duane Zboncak'
