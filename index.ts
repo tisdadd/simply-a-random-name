@@ -1,1 +1,1 @@
-export default 'Stephanie Windler Jr.'
+export default 'Leonard Stroman'
