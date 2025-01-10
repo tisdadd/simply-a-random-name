@@ -1,1 +1,1 @@
-export default 'Dr. Fredrick Kuhic'
+export default 'Claire Kunze II'
