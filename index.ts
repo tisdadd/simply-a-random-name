@@ -1,1 +1,1 @@
-export default 'Jeffery Jenkins PhD'
+export default 'Andre Dicki'
