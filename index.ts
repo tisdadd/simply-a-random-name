@@ -1,1 +1,1 @@
-export default 'Daryl Durgan MD'
+export default 'Erika Kutch'
