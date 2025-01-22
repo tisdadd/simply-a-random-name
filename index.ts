@@ -1,1 +1,1 @@
-export default 'Dr. Ismael Lesch'
+export default 'Daryl Durgan MD'
