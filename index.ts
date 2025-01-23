@@ -1,1 +1,1 @@
-export default 'Mrs. Sophia Feest'
+export default 'Tricia Connelly'
