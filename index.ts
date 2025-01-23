@@ -1,1 +1,1 @@
-export default 'Tricia Connelly'
+export default 'Hector Herzog'
