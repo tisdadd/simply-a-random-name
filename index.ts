@@ -1,1 +1,1 @@
-export default 'Hector Herzog'
+export default 'Gwen Wiza'
