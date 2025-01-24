@@ -1,1 +1,1 @@
-export default 'Cristina Goldner'
+export default 'Teri Swift'
