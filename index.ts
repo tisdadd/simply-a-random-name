@@ -1,1 +1,1 @@
-export default 'Lindsay Connelly'
+export default 'Ruth Hayes'
