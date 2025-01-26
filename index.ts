@@ -1,1 +1,1 @@
-export default 'Alexander Kovacek'
+export default 'Miriam Maggio'
