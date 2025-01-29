@@ -1,1 +1,1 @@
-export default 'Edna Denesik Jr.'
+export default 'Stewart Hickle'
