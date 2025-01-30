@@ -1,1 +1,1 @@
-export default 'Dr. Fannie Reilly V'
+export default 'Kenny Armstrong'
