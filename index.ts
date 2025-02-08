@@ -1,1 +1,1 @@
-export default 'Wanda Hegmann'
+export default 'Violet Walter'
