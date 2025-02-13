@@ -1,1 +1,1 @@
-export default 'Kevin Wisozk Jr.'
+export default 'Lloyd Goodwin'
