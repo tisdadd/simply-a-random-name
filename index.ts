@@ -1,1 +1,1 @@
-export default 'Sheldon Jacobson'
+export default 'Ruby Schmidt'
