@@ -1,1 +1,1 @@
-export default 'Ruby Schmidt'
+export default 'Angelina Pouros Sr.'
