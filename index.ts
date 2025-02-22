@@ -1,1 +1,1 @@
-export default 'Olga Vandervort'
+export default 'Carol Kris'
