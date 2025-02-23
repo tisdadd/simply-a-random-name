@@ -1,1 +1,1 @@
-export default 'Ms. Andrea West'
+export default 'Dr. Jana Ruecker'
