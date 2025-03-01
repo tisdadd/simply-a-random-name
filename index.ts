@@ -1,1 +1,1 @@
-export default 'Dewey Hodkiewicz'
+export default 'Marilyn Goyette PhD'
