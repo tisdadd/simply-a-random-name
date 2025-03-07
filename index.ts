@@ -1,1 +1,1 @@
-export default 'Stephanie Stoltenberg'
+export default 'Rene Terry'
