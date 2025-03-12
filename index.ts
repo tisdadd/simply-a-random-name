@@ -1,1 +1,1 @@
-export default 'Dr. Lynn Pagac'
+export default 'Sherry Rowe'
