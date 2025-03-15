@@ -1,1 +1,1 @@
-export default 'Ora Hahn-Gibson'
+export default 'Dr. Vickie Goyette'
