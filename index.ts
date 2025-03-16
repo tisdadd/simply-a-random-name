@@ -1,1 +1,1 @@
-export default 'Joey Schroeder-Zboncak'
+export default 'Dr. Amanda Wiegand'
