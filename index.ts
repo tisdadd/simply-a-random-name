@@ -1,1 +1,1 @@
-export default 'Alex Runolfsdottir DDS'
+export default 'Jeannette Labadie DVM'
