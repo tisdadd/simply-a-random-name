@@ -1,1 +1,1 @@
-export default 'Kay Dach V'
+export default 'Katherine Wehner'
