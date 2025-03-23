@@ -1,1 +1,1 @@
-export default 'Pat Cormier-Beahan'
+export default 'Patrick McDermott'
