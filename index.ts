@@ -1,1 +1,1 @@
-export default 'Cedric Zboncak II'
+export default 'Vickie Spinka'
