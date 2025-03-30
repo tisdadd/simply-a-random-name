@@ -1,1 +1,1 @@
-export default 'Vickie Spinka'
+export default 'Bryant Kulas PhD'
