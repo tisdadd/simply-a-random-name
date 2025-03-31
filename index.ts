@@ -1,1 +1,1 @@
-export default 'Lowell Dickens'
+export default 'Josephine Prosacco'
