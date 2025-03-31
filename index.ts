@@ -1,1 +1,1 @@
-export default 'Cornelius Connelly'
+export default 'Lowell Dickens'
