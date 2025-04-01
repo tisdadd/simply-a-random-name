@@ -1,1 +1,1 @@
-export default 'Gabriel Heathcote'
+export default 'Gerald Armstrong MD'
