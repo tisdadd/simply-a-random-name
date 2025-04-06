@@ -1,1 +1,1 @@
-export default 'Van Altenwerth'
+export default 'Alison McGlynn Jr.'
