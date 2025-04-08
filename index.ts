@@ -1,1 +1,1 @@
-export default 'Jeanne Wunsch'
+export default 'Janice Swaniawski MD'
