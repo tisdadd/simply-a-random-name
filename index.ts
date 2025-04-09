@@ -1,1 +1,1 @@
-export default 'Brad Prohaska-Block'
+export default 'Eugene Strosin'
