@@ -1,1 +1,1 @@
-export default 'Mr. Wilbur Thiel'
+export default 'Georgia Runolfsdottir'
