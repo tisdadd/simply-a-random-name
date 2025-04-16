@@ -1,1 +1,1 @@
-export default 'Brendan Wyman'
+export default 'Eddie Brekke DDS'
