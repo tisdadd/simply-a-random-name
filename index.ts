@@ -1,1 +1,1 @@
-export default 'Georgia Runolfsdottir'
+export default 'Clara Rosenbaum'
