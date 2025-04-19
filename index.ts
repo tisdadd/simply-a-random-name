@@ -1,1 +1,1 @@
-export default 'Beatrice Shanahan'
+export default 'Juanita Bechtelar'
