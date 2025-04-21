@@ -1,1 +1,1 @@
-export default 'Marian Reichel'
+export default 'Jan Hettinger'
