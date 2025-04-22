@@ -1,1 +1,1 @@
-export default 'Fred McKenzie'
+export default 'Edna Lakin PhD'
