@@ -1,1 +1,1 @@
-export default 'Edna Lakin PhD'
+export default 'Cathy Beer DVM'
