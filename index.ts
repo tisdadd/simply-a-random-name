@@ -1,1 +1,1 @@
-export default 'Terence Osinski'
+export default 'Juan Marvin MD'
