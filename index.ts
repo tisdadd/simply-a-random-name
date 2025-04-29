@@ -1,1 +1,1 @@
-export default 'Mrs. Tammy Schroeder PhD'
+export default 'Arthur Gibson'
