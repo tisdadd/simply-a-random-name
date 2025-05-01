@@ -1,1 +1,1 @@
-export default 'George Cole'
+export default 'Kim Mante'
