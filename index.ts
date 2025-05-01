@@ -1,1 +1,1 @@
-export default 'Tony Kuhlman'
+export default 'George Cole'
