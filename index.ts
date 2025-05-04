@@ -1,1 +1,1 @@
-export default 'Dr. Ted Stoltenberg'
+export default 'Dr. Alfredo Kerluke'
