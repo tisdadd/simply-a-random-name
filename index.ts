@@ -1,1 +1,1 @@
-export default 'Kurt Homenick'
+export default 'Dr. Rafael Auer'
