@@ -1,1 +1,1 @@
-export default 'Kendra Bashirian'
+export default 'Darrel Schneider'
