@@ -1,1 +1,1 @@
-export default 'Dr. Rafael Auer'
+export default 'Kendra Bashirian'
