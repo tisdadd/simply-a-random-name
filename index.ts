@@ -1,1 +1,1 @@
-export default 'Thomas Bergstrom'
+export default 'Sylvester Gleichner'
