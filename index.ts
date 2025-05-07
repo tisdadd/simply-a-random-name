@@ -1,1 +1,1 @@
-export default 'Howard Weimann'
+export default 'Dr. Malcolm Klocko'
