@@ -1,1 +1,1 @@
-export default 'Ruby Franecki'
+export default 'Arthur Hodkiewicz'
