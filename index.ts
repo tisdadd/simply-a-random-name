@@ -1,1 +1,1 @@
-export default 'Karl Batz'
+export default 'Julian Torphy'
