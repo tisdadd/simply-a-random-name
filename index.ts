@@ -1,1 +1,1 @@
-export default 'Barry McCullough'
+export default 'Noah Kuphal'
