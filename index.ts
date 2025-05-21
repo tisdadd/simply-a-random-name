@@ -1,1 +1,1 @@
-export default 'Dr. Eduardo Renner'
+export default 'Terry Rodriguez'
