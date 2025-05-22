@@ -1,1 +1,1 @@
-export default 'Wm Rutherford'
+export default 'Faye Wyman-Sipes I'
