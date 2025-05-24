@@ -1,1 +1,1 @@
-export default 'Israel Beahan'
+export default 'Dr. Nora Effertz'
