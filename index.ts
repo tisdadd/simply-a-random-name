@@ -1,1 +1,1 @@
-export default 'Dr. Jay Bechtelar'
+export default 'Winston Gusikowski'
