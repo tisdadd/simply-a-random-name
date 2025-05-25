@@ -1,1 +1,1 @@
-export default 'Lola Cruickshank'
+export default 'Kathy Bogan-Ward'
