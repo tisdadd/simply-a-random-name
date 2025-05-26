@@ -1,1 +1,1 @@
-export default 'Winston Gusikowski'
+export default 'Joan Lubowitz'
