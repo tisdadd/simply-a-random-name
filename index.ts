@@ -1,1 +1,1 @@
-export default 'Glenn Stiedemann DVM'
+export default 'Rosie Lindgren'
