@@ -1,1 +1,1 @@
-export default 'Dr. Santos Deckow'
+export default 'Dewey Considine Sr.'
