@@ -1,1 +1,1 @@
-export default 'Latoya Wuckert'
+export default 'Sonia Howell Jr.'
