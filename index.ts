@@ -1,1 +1,1 @@
-export default 'Dewey Considine Sr.'
+export default 'Latoya Wuckert'
