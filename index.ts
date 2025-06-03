@@ -1,1 +1,1 @@
-export default 'Kendra Kreiger DVM'
+export default 'Shari Effertz'
