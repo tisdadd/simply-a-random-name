@@ -1,1 +1,1 @@
-export default 'Kellie Wunsch'
+export default 'Dr. Ethel Strosin'
