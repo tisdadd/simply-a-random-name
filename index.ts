@@ -1,1 +1,1 @@
-export default 'Dr. Ethel Strosin'
+export default 'Rex Bernier'
