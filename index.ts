@@ -1,1 +1,1 @@
-export default 'Leon Klocko'
+export default 'Alex West'
