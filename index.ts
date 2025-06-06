@@ -1,1 +1,1 @@
-export default 'Herbert Bergnaum'
+export default 'Regina Kovacek'
