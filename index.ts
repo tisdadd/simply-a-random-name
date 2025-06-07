@@ -1,1 +1,1 @@
-export default 'Jeffery Quigley Sr.'
+export default 'Hector Fritsch'
