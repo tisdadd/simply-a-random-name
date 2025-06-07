@@ -1,1 +1,1 @@
-export default 'Hector Fritsch'
+export default 'Joann King'
