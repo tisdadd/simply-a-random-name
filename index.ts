@@ -1,1 +1,1 @@
-export default 'Sean Kozey'
+export default 'Andre Strosin'
