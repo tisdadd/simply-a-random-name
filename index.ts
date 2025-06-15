@@ -1,1 +1,1 @@
-export default 'Muriel Rosenbaum'
+export default 'Sean Wolf Jr.'
