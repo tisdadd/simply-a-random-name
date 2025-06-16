@@ -1,1 +1,1 @@
-export default 'Margarita Wehner'
+export default 'Mr. Allen Funk PhD'
