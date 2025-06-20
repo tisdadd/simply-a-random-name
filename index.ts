@@ -1,1 +1,1 @@
-export default 'Eduardo Blick'
+export default 'Lynn Wisoky'
