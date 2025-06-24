@@ -1,1 +1,1 @@
-export default 'Thomas Toy'
+export default 'Thelma Johns'
