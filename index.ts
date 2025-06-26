@@ -1,1 +1,1 @@
-export default 'Wallace Langosh Jr.'
+export default 'Mrs. Monica Swaniawski'
