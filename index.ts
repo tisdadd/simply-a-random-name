@@ -1,1 +1,1 @@
-export default 'Mrs. Cynthia Pollich-McClure'
+export default 'Joanne Collins'
