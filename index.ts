@@ -1,1 +1,1 @@
-export default 'Alejandro Schneider'
+export default 'Dr. Arnold Labadie'
