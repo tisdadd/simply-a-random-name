@@ -1,1 +1,1 @@
-export default 'Blanche Corwin DVM'
+export default 'Sidney Gottlieb'
