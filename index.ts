@@ -1,1 +1,1 @@
-export default 'Wilson Huels-Gleason'
+export default 'Dr. Kate Homenick'
