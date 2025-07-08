@@ -1,1 +1,1 @@
-export default 'Adrian Johns'
+export default 'Clarence Spinka-Trantow'
