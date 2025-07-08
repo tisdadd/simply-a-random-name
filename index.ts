@@ -1,1 +1,1 @@
-export default 'Mona Buckridge-Zboncak'
+export default 'Norma Blanda'
