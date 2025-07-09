@@ -1,1 +1,1 @@
-export default 'Clarence Spinka-Trantow'
+export default 'Edmond Smitham'
