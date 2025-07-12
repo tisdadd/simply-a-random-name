@@ -1,1 +1,1 @@
-export default 'Dr. Taylor Ondricka'
+export default 'Joan Rowe'
