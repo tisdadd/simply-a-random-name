@@ -1,1 +1,1 @@
-export default 'Martin Torp'
+export default 'Jan Sawayn'
