@@ -1,1 +1,1 @@
-export default 'Sonja Rodriguez'
+export default 'Kendra Huels'
