@@ -1,1 +1,1 @@
-export default 'Allen Tremblay'
+export default 'Ed Dietrich'
