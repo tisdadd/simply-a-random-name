@@ -1,1 +1,1 @@
-export default 'Claire Orn'
+export default 'Dr. Ricardo Pollich'
