@@ -1,1 +1,1 @@
-export default 'Kim McLaughlin'
+export default 'Claire Orn'
