@@ -1,1 +1,1 @@
-export default 'Violet King'
+export default 'Kim McLaughlin'
