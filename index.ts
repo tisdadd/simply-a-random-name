@@ -1,1 +1,1 @@
-export default 'Dr. Ricardo Pollich'
+export default 'Walter Cruickshank'
