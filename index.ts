@@ -1,1 +1,1 @@
-export default 'Jenny Dickens'
+export default 'Jennie Friesen'
