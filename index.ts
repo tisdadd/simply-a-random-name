@@ -1,1 +1,1 @@
-export default 'Percy Hermiston-Schroeder Jr.'
+export default 'Dr. Dan Windler'
