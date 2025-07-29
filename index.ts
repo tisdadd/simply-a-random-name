@@ -1,1 +1,1 @@
-export default 'Sonia Mitchell'
+export default 'Penny Aufderhar'
