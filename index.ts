@@ -1,1 +1,1 @@
-export default 'Lori Bernhard'
+export default 'Michael Dare II'
