@@ -1,1 +1,1 @@
-export default 'Sergio Fay MD'
+export default 'Lynn Hettinger'
