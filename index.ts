@@ -1,1 +1,1 @@
-export default 'Lana Dickens'
+export default 'William Wiegand'
