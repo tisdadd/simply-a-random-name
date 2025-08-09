@@ -1,1 +1,1 @@
-export default 'Leonard Prohaska DVM'
+export default 'Mario MacGyver'
