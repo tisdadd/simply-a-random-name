@@ -1,1 +1,1 @@
-export default 'Angelo Feil-Kautzer PhD'
+export default 'Mr. Dennis Mertz'
