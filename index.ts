@@ -1,1 +1,1 @@
-export default 'Woodrow Nienow-Pollich PhD'
+export default 'Mr. Bert Konopelski DVM'
