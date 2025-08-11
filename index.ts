@@ -1,1 +1,1 @@
-export default 'Ron Connelly'
+export default 'Angelo Feil-Kautzer PhD'
