@@ -1,1 +1,1 @@
-export default 'Charles Hegmann'
+export default 'Jim West'
