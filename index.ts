@@ -1,1 +1,1 @@
-export default 'Erik Hauck'
+export default 'Alton Kihn'
