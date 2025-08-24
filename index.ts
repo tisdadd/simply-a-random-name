@@ -1,1 +1,1 @@
-export default 'Hubert Boyer'
+export default 'Walter Kris'
