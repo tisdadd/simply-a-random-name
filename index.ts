@@ -1,1 +1,1 @@
-export default 'Vicky Bosco'
+export default 'Essie Schumm-Terry'
