@@ -1,1 +1,1 @@
-export default 'Rosie Sanford'
+export default 'Christian Dietrich'
