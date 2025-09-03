@@ -1,1 +1,1 @@
-export default 'Naomi Romaguera DDS'
+export default 'Rufus Nicolas'
