@@ -1,1 +1,1 @@
-export default 'Mable Mante'
+export default 'Dr. Irvin Gibson'
