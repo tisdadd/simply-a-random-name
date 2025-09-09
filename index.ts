@@ -1,1 +1,1 @@
-export default 'Darnell Gleichner-Murray'
+export default 'Gordon Kub'
