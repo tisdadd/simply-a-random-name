@@ -1,1 +1,1 @@
-export default 'Lamar Pacocha'
+export default 'Dr. Pat Simonis'
