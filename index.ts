@@ -1,1 +1,1 @@
-export default 'Lora Lynch'
+export default 'Ora Funk'
