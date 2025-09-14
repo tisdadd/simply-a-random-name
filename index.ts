@@ -1,1 +1,1 @@
-export default 'Kirk Stark'
+export default 'June Harris'
