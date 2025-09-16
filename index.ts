@@ -1,1 +1,1 @@
-export default 'Judith Prohaska I'
+export default 'Essie Gottlieb'
