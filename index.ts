@@ -1,1 +1,1 @@
-export default 'Dr. Lucy Streich Sr.'
+export default 'Miss Angelica Spinka V'
