@@ -1,1 +1,1 @@
-export default 'Bob Durgan'
+export default 'Laurie Kuhn'
