@@ -1,1 +1,1 @@
-export default 'Lee Kub'
+export default 'Dr. Hector Witting'
