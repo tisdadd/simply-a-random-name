@@ -1,1 +1,1 @@
-export default 'Jan Hirthe'
+export default 'Ida Runolfsson'
