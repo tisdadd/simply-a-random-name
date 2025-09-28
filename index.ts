@@ -1,1 +1,1 @@
-export default 'Joe Daugherty'
+export default 'Vincent Strosin'
