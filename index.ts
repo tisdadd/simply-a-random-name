@@ -1,1 +1,1 @@
-export default 'Lionel Dicki'
+export default 'Linda Bahringer'
