@@ -1,1 +1,1 @@
-export default 'Alberto Goyette'
+export default 'Lionel Dicki'
