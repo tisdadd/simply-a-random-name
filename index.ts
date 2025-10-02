@@ -1,1 +1,1 @@
-export default 'Mr. Barry Fritsch'
+export default 'Constance McClure-Purdy MD'
