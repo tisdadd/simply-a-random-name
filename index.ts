@@ -1,1 +1,1 @@
-export default 'Betty McCullough'
+export default 'Gordon Shanahan I'
