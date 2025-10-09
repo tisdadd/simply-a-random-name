@@ -1,1 +1,1 @@
-export default 'Dr. Arthur Roob'
+export default 'Betty McCullough'
