@@ -1,1 +1,1 @@
-export default 'Edgar Bruen IV'
+export default 'Samantha Reynolds'
