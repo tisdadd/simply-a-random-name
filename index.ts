@@ -1,1 +1,1 @@
-export default 'Kirk Will'
+export default 'Jenny Okuneva'
