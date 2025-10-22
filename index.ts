@@ -1,1 +1,1 @@
-export default 'Alfredo Stamm'
+export default 'Paulette Fay Jr.'
