@@ -1,1 +1,1 @@
-export default 'Troy Strosin'
+export default 'Paula Daniel'
