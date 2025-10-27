@@ -1,1 +1,1 @@
-export default 'Dr. Norman DuBuque'
+export default 'Vernon Renner III'
