@@ -1,1 +1,1 @@
-export default 'Nora Thompson'
+export default 'Moses Lubowitz-Connelly'
