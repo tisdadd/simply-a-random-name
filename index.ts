@@ -1,1 +1,1 @@
-export default 'Moses Lubowitz-Connelly'
+export default 'Bryant Wintheiser'
