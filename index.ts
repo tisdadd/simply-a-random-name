@@ -1,1 +1,1 @@
-export default 'Bryant Wintheiser'
+export default 'Dr. Norman DuBuque'
