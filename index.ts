@@ -1,1 +1,1 @@
-export default 'Vernon Renner III'
+export default 'Mandy Ondricka'
