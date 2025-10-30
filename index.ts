@@ -1,1 +1,1 @@
-export default 'Velma Jacobi-Waters V'
+export default 'Vicky Kuphal'
