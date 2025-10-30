@@ -1,1 +1,1 @@
-export default 'Benny McLaughlin III'
+export default 'Kathy Cartwright'
