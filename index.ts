@@ -1,1 +1,1 @@
-export default 'Lillie Kuhlman'
+export default 'Ted Mante'
