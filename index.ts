@@ -1,1 +1,1 @@
-export default 'Ashley Bauch'
+export default 'Dr. Ted Gottlieb'
