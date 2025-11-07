@@ -1,1 +1,1 @@
-export default 'Gerardo Strosin'
+export default 'Kristie Koss-Simonis'
