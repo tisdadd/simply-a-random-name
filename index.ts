@@ -1,1 +1,1 @@
-export default 'Susie Bernhard'
+export default 'Ted Turner'
