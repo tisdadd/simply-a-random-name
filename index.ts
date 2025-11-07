@@ -1,1 +1,1 @@
-export default 'Ted Turner'
+export default 'Gerardo Strosin'
