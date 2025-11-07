@@ -1,1 +1,1 @@
-export default 'Kristie Koss-Simonis'
+export default 'Samuel McKenzie'
