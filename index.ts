@@ -1,1 +1,1 @@
-export default 'Miss Brandi Kirlin PhD'
+export default 'Dr. Cheryl Doyle'
