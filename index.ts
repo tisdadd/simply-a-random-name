@@ -1,1 +1,1 @@
-export default 'Lionel Crooks'
+export default 'Maurice Wiegand'
