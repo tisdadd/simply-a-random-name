@@ -1,1 +1,1 @@
-export default 'Mr. Danny Goldner-Hamill'
+export default 'Frank Lynch'
