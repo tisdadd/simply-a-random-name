@@ -1,1 +1,1 @@
-export default 'Kristie Kuphal'
+export default 'Shawna Lowe'
