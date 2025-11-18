@@ -1,1 +1,1 @@
-export default 'Doug Veum'
+export default 'Douglas Bahringer'
