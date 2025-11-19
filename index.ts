@@ -1,1 +1,1 @@
-export default 'Harry Barrows'
+export default 'Domingo Price'
