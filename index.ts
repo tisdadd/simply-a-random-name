@@ -1,1 +1,1 @@
-export default 'Mr. Emanuel Kling MD'
+export default 'Dr. Ron Satterfield'
