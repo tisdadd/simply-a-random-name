@@ -1,1 +1,1 @@
-export default 'Andy Ankunding Sr.'
+export default 'Derrick McGlynn'
