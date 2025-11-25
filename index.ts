@@ -1,1 +1,1 @@
-export default 'Barry Klocko PhD'
+export default 'Kathryn Miller'
