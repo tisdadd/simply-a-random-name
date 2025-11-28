@@ -1,1 +1,1 @@
-export default 'Bernard Jones'
+export default 'Derrick Ritchie'
