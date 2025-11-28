@@ -1,1 +1,1 @@
-export default 'Mr. Christian Runolfsdottir'
+export default 'Bernard Jones'
