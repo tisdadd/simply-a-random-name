@@ -1,1 +1,1 @@
-export default 'Dr. Horace Krajcik'
+export default 'Philip Hoppe'
