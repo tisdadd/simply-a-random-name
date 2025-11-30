@@ -1,1 +1,1 @@
-export default 'Israel Wisozk MD'
+export default 'Eugene Runolfsson'
