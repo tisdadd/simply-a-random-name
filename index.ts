@@ -1,1 +1,1 @@
-export default 'Clay Rippin'
+export default 'Lorene Jerde'
