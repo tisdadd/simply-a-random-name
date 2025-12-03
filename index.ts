@@ -1,1 +1,1 @@
-export default 'Dr. Kent Steuber IV'
+export default 'Myra Wilkinson'
