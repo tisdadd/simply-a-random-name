@@ -1,1 +1,1 @@
-export default 'Anne Rippin'
+export default 'Harry Swaniawski V'
