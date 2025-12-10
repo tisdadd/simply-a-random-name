@@ -1,1 +1,1 @@
-export default 'Samantha Wunsch'
+export default 'Dr. Rex Macejkovic'
