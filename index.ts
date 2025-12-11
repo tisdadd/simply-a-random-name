@@ -1,1 +1,1 @@
-export default 'Ms. Megan Fritsch'
+export default 'Eduardo Wisozk'
