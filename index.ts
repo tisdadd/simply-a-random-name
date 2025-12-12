@@ -1,1 +1,1 @@
-export default 'Juana Spinka V'
+export default 'Jay Rippin'
