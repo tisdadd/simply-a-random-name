@@ -1,1 +1,1 @@
-export default 'Delia Beier-Ruecker'
+export default 'Velma Bins MD'
