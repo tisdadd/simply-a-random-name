@@ -1,1 +1,1 @@
-export default 'Blake Daugherty DDS'
+export default 'Ginger Frami MD'
