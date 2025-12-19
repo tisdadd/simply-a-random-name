@@ -1,1 +1,1 @@
-export default 'Joan Jerde'
+export default 'Gordon Boyer'
