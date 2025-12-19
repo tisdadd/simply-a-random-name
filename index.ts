@@ -1,1 +1,1 @@
-export default 'Mr. Alfredo Lubowitz-Franecki'
+export default 'Georgia Reinger'
