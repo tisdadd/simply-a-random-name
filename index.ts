@@ -1,1 +1,1 @@
-export default 'Richard Denesik'
+export default 'Wendell Kutch'
