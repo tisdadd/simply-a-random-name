@@ -1,1 +1,1 @@
-export default 'Walter Upton II'
+export default 'Kent Schneider MD'
