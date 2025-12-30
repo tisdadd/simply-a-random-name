@@ -1,1 +1,1 @@
-export default 'Inez Ward'
+export default 'Taylor Metz'
