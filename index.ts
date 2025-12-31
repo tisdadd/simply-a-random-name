@@ -1,1 +1,1 @@
-export default 'Rex Wehner'
+export default 'Paulette Schiller-Sporer'
