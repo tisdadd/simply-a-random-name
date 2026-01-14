@@ -1,1 +1,1 @@
-export default 'Dr. Max Deckow'
+export default 'Nora Barton'
