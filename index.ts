@@ -1,1 +1,1 @@
-export default 'Tina Greenholt DDS'
+export default 'Dr. Lora Toy'
