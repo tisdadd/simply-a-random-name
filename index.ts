@@ -1,1 +1,1 @@
-export default 'Erika Satterfield PhD'
+export default 'Adrian Fay'
