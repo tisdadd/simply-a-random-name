@@ -1,1 +1,1 @@
-export default 'Candice Brown'
+export default 'Vincent Jast'
