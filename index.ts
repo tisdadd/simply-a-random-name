@@ -1,1 +1,1 @@
-export default 'Gertrude Rolfson'
+export default 'Dr. Mindy Littel'
