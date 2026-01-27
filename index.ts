@@ -1,1 +1,1 @@
-export default 'Camille Davis'
+export default 'Dr. Kirk Schamberger'
