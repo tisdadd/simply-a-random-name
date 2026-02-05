@@ -1,1 +1,1 @@
-export default 'Lynne Strosin'
+export default 'Garry Hackett Sr.'
