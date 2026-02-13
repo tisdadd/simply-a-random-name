@@ -1,1 +1,1 @@
-export default 'Jane Bogisich'
+export default 'Dr. Eugene Pollich'
