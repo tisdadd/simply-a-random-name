@@ -1,1 +1,1 @@
-export default 'Mr. Theodore Hettinger-Schamberger'
+export default 'Ethel Lesch'
