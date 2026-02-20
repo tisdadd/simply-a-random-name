@@ -1,1 +1,1 @@
-export default 'Grace Champlin'
+export default 'Bessie Connelly'
