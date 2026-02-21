@@ -1,1 +1,1 @@
-export default 'Linda Quigley'
+export default 'Lucas Funk'
