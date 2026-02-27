@@ -1,1 +1,1 @@
-export default 'Vera Auer'
+export default 'Gary Powlowski'
