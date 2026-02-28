@@ -1,1 +1,1 @@
-export default 'Dr. Heather Fadel I'
+export default 'Jay Lind'
