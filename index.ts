@@ -1,1 +1,1 @@
-export default 'Miss Susie Effertz'
+export default 'Hubert Wiegand II'
