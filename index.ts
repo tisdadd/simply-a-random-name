@@ -1,1 +1,1 @@
-export default 'Ralph Goodwin MD'
+export default 'Wilbur Bogan'
