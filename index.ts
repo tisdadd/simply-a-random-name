@@ -1,1 +1,1 @@
-export default 'Claudia Brekke III'
+export default 'Nick DuBuque-Kunde'
