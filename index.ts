@@ -1,1 +1,1 @@
-export default 'Sylvia Nitzsche I'
+export default 'Paulette Langworth'
