@@ -1,1 +1,1 @@
-export default 'Heidi Yost PhD'
+export default 'Darryl Hermann V'
