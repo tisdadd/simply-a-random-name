@@ -1,1 +1,1 @@
-export default 'Irving Medhurst'
+export default 'Gilbert Connelly'
