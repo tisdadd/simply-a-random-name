@@ -1,1 +1,1 @@
-export default 'Nathaniel Weimann'
+export default 'Claude Harris'
