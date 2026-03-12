@@ -1,1 +1,1 @@
-export default 'Elaine Ankunding DDS'
+export default 'Bradford Barton'
