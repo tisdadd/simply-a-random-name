@@ -1,1 +1,1 @@
-export default 'Omar Wisoky'
+export default 'Dr. Claude Reinger'
