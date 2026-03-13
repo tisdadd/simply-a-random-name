@@ -1,1 +1,1 @@
-export default 'Dr. Claude Reinger'
+export default 'Jean MacGyver'
