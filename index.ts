@@ -1,1 +1,1 @@
-export default 'Mrs. Meghan Waters-Quigley'
+export default 'Estelle Schimmel Jr.'
