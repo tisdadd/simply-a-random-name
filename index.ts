@@ -1,1 +1,1 @@
-export default 'Steve Smitham DDS'
+export default 'Lyle Heidenreich'
