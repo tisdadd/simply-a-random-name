@@ -1,1 +1,1 @@
-export default 'Vicki Miller'
+export default 'Dr. Max Jacobson'
