@@ -1,1 +1,1 @@
-export default 'Edmund Rodriguez Sr.'
+export default 'Doyle Torp'
