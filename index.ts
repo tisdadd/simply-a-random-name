@@ -1,1 +1,1 @@
-export default 'Alexander Hilpert'
+export default 'Mr. Doug Gottlieb'
