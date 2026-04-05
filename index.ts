@@ -1,1 +1,1 @@
-export default 'Dr. Carlton Wiegand'
+export default 'Sara Anderson'
