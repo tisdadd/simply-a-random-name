@@ -1,1 +1,1 @@
-export default 'Kristie Thompson'
+export default 'Jo Fisher'
