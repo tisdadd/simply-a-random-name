@@ -1,1 +1,1 @@
-export default 'Wade Reilly'
+export default 'Kristie Thompson'
