@@ -1,1 +1,1 @@
-export default 'Ernestine White-Hartmann Sr.'
+export default 'Luz Gerhold'
