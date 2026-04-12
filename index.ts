@@ -1,1 +1,1 @@
-export default 'Joshua Daniel'
+export default 'Wayne Dach'
