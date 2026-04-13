@@ -1,1 +1,1 @@
-export default 'Bryan Gutkowski'
+export default 'Dr. Rick Cormier'
