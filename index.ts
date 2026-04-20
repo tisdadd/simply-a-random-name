@@ -1,1 +1,1 @@
-export default 'Laurie Murazik-McDermott'
+export default 'Wendy Walsh'
