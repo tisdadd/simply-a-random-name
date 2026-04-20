@@ -1,1 +1,1 @@
-export default 'Sammy Hayes'
+export default 'Laurie Murazik-McDermott'
