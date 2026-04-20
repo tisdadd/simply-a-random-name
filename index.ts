@@ -1,1 +1,1 @@
-export default 'Wendy Walsh'
+export default 'Brandy Price'
