@@ -1,1 +1,1 @@
-export default 'Darrin Ebert'
+export default 'Sammy Hayes'
