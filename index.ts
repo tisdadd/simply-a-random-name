@@ -1,1 +1,1 @@
-export default 'Vera Hudson'
+export default 'Dr. Wendy Jacobi'
