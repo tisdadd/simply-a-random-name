@@ -1,1 +1,1 @@
-export default 'Rhonda Wintheiser DDS'
+export default 'Adam Maggio'
