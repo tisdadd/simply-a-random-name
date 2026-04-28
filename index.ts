@@ -1,1 +1,1 @@
-export default 'Clara Sauer'
+export default 'Pedro Stamm-Wehner'
