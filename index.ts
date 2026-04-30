@@ -1,1 +1,1 @@
-export default 'Charlotte Reinger'
+export default 'Seth Simonis Jr.'
