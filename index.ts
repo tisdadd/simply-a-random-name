@@ -1,1 +1,1 @@
-export default 'Rex Renner'
+export default 'Candice Johns PhD'
