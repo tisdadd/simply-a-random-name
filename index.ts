@@ -1,1 +1,1 @@
-export default 'Henry Konopelski DVM'
+export default 'Dr. Ed Emmerich'
