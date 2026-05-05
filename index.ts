@@ -1,1 +1,1 @@
-export default 'Dr. Ed Emmerich'
+export default 'Blanca Prosacco'
