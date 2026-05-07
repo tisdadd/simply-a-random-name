@@ -1,1 +1,1 @@
-export default 'Stella Corwin'
+export default 'Kenneth Sanford'
