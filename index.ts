@@ -1,1 +1,1 @@
-export default 'Marian Howe Jr.'
+export default 'Stella Corwin'
