@@ -1,1 +1,1 @@
-export default 'Natalie Ward'
+export default 'Vicky Predovic'
