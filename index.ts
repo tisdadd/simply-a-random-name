@@ -1,1 +1,1 @@
-export default 'Whitney Goyette'
+export default 'Pauline Hahn'
