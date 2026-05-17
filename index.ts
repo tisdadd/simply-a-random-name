@@ -1,1 +1,1 @@
-export default 'Wm Schinner DVM'
+export default 'Candice Jakubowski'
