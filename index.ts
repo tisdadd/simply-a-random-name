@@ -1,1 +1,1 @@
-export default 'Jenny Stehr'
+export default 'Joanne Maggio'
