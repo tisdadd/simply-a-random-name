@@ -1,1 +1,1 @@
-export default 'Lynette Strosin'
+export default 'Paul Bahringer'
