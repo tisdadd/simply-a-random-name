@@ -1,1 +1,1 @@
-export default 'Todd Hegmann'
+export default 'Dr. Gerardo Price'
