@@ -1,1 +1,1 @@
-export default 'Miguel Renner Jr.'
+export default 'Willis MacGyver'
