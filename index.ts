@@ -1,1 +1,1 @@
-export default 'Mandy Dickinson'
+export default 'Floyd Lang'
