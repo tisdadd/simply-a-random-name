@@ -1,1 +1,1 @@
-export default 'Guy Cartwright'
+export default 'Dr. Adam Johnston'
