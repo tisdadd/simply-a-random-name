@@ -1,1 +1,1 @@
-export default 'Jackie Johnson'
+export default 'Cora Kuphal'
