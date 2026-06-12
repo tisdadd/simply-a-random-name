@@ -1,1 +1,1 @@
-export default 'Brooke Bahringer Sr.'
+export default 'Jackie Johnson'
