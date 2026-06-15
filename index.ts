@@ -1,1 +1,1 @@
-export default 'Carroll Rutherford'
+export default 'Gladys McGlynn Jr.'
