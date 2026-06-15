@@ -1,1 +1,1 @@
-export default 'Kerry Lang'
+export default 'Dr. Sheldon Wiza'
