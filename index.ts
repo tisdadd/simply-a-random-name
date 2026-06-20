@@ -1,1 +1,1 @@
-export default 'Sergio Lind'
+export default 'Joann Smith II'
