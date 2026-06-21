@@ -1,1 +1,1 @@
-export default 'Leslie Wilderman MD'
+export default 'Wade Sanford'
