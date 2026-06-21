@@ -1,1 +1,1 @@
-export default 'Wade Sanford'
+export default 'Terry Mann'
