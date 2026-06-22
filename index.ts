@@ -1,1 +1,1 @@
-export default 'Dr. Tina Grady Jr.'
+export default 'Penny Koch'
