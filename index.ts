@@ -1,1 +1,1 @@
-export default 'Armando Morar'
+export default 'Dr. Tina Grady Jr.'
