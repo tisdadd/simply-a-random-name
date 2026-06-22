@@ -1,1 +1,1 @@
-export default 'Penny Koch'
+export default 'Dawn Lindgren'
