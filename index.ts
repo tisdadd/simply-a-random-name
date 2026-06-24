@@ -1,1 +1,1 @@
-export default 'Clara Dicki'
+export default 'Duane Stamm'
