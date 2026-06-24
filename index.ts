@@ -1,1 +1,1 @@
-export default 'Duane Stamm'
+export default 'Garry DuBuque'
