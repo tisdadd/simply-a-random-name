@@ -1,1 +1,1 @@
-export default 'Melanie Gusikowski'
+export default 'Clara Dicki'
