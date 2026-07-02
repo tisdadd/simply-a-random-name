@@ -1,1 +1,1 @@
-export default 'Stanley Ward'
+export default 'Benjamin Swaniawski'
