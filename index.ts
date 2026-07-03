@@ -1,1 +1,1 @@
-export default 'Dr. Gene Raynor'
+export default 'Wanda Powlowski'
