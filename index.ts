@@ -1,1 +1,1 @@
-export default 'Jeannie Lindgren'
+export default 'Opal Crona'
