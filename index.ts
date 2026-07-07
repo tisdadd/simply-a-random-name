@@ -1,1 +1,1 @@
-export default 'Dr. Wilbur Maggio'
+export default 'Amelia Bashirian'
