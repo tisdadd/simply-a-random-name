@@ -1,1 +1,1 @@
-export default 'Gloria Wyman'
+export default 'Edward Spinka'
