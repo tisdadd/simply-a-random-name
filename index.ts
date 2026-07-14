@@ -1,1 +1,1 @@
-export default 'Dr. Merle Witting'
+export default 'Horace Terry'
