@@ -1,1 +1,1 @@
-export default 'Janet Fay-Cummerata'
+export default 'Verna Davis'
