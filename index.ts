@@ -1,1 +1,1 @@
-export default 'Arthur Ritchie'
+export default 'Sheldon Ebert'
