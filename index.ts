@@ -1,1 +1,1 @@
-export default 'Natasha Batz'
+export default 'Claude Smitham'
