@@ -1,1 +1,1 @@
-export default 'Cecilia Blanda-Hyatt'
+export default 'Barry Schumm'
