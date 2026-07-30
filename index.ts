@@ -1,1 +1,1 @@
-export default 'Minnie Nolan I'
+export default 'John MacGyver'
