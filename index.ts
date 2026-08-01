@@ -1,1 +1,1 @@
-export default 'Christopher Dicki'
+export default 'Amos Rippin'
