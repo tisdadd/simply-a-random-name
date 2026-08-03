@@ -1,1 +1,1 @@
-export default 'Yvette Schiller'
+export default 'Georgia Stroman-Denesik'
