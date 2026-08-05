@@ -1,1 +1,1 @@
-export default 'Lee Ullrich'
+export default 'Kurt Johnson-Smith'
