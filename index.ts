@@ -1,1 +1,1 @@
-export default 'Kurt Johnson-Smith'
+export default 'Hector Maggio'
