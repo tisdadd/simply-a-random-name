@@ -1,1 +1,1 @@
-export default 'Dr. Kathryn Runolfsson IV'
+export default 'Bernard Nitzsche'
