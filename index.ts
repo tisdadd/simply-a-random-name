@@ -1,1 +1,1 @@
-export default 'Naomi Legros'
+export default 'Dwayne Harris'
