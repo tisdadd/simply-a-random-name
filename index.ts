@@ -1,1 +1,1 @@
-export default 'Tanya Collins DDS'
+export default 'Kristin Denesik'
