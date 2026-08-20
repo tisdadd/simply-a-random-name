@@ -1,1 +1,1 @@
-export default 'Clark Kozey-Rosenbaum'
+export default 'Angelica Osinski'
