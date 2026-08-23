@@ -1,1 +1,1 @@
-export default 'Alexis Buckridge'
+export default 'Dr. Miguel Conn'
