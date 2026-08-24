@@ -1,1 +1,1 @@
-export default 'Irving Bartell DVM'
+export default 'Wm Streich'
