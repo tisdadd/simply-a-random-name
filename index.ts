@@ -1,1 +1,1 @@
-export default 'Edmond Kuhlman'
+export default 'Constance Spinka'
