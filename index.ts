@@ -1,1 +1,1 @@
-export default 'Jenna Denesik'
+export default 'Vera Purdy'
