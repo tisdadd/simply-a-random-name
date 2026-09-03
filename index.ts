@@ -1,1 +1,1 @@
-export default 'Lynne Mann'
+export default 'Jack Fritsch'
