@@ -1,1 +1,1 @@
-export default 'Jack Fritsch'
+export default 'Sammy Price'
