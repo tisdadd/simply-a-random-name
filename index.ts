@@ -1,1 +1,1 @@
-export default 'Sammy Price'
+export default 'Dolores Bruen'
