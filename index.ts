@@ -1,1 +1,1 @@
-export default 'Viola Lindgren MD'
+export default 'Erik Hegmann'
