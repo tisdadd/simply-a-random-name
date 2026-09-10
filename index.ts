@@ -1,1 +1,1 @@
-export default 'Johnnie Marvin'
+export default 'Kendra Price'
