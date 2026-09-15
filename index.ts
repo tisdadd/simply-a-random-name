@@ -1,1 +1,1 @@
-export default 'Freda Bernhard'
+export default 'Mr. Johnnie Legros IV'
