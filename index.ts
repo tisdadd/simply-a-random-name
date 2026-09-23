@@ -1,1 +1,1 @@
-export default 'Ricardo Heller'
+export default 'Edna Beatty'
