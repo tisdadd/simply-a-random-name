@@ -1,1 +1,1 @@
-export default 'Ada Tremblay Sr.'
+export default 'David Bins'
