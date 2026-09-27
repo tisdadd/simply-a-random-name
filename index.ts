@@ -1,1 +1,1 @@
-export default 'Ora Berge'
+export default 'Samuel Hirthe'
