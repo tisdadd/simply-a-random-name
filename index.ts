@@ -1,1 +1,1 @@
-export default 'Samuel Hirthe'
+export default 'Rosie Tremblay'
