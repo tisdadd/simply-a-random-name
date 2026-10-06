@@ -1,1 +1,1 @@
-export default 'Tomas Reichert'
+export default 'Dr. Dwight Hoeger'
