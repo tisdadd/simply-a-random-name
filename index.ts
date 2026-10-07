@@ -1,1 +1,1 @@
-export default 'Earl Kuvalis'
+export default 'Paulette Terry DDS'
