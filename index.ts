@@ -1,1 +1,1 @@
-export default 'Rogelio Kris'
+export default 'Dr. Domingo Cummings'
