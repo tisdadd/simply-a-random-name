@@ -1,1 +1,1 @@
-export default 'Dr. Seth Haley'
+export default 'Christy Bauch'
