@@ -1,1 +1,1 @@
-export default 'Miranda Wiegand'
+export default 'Elijah Johnson-Krajcik I'
