@@ -1,1 +1,1 @@
-export default 'Delia Dare'
+export default 'Miranda Wiegand'
