@@ -1,1 +1,1 @@
-export default 'Patricia Hintz-Schiller DDS'
+export default 'Shari Jakubowski'
