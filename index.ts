@@ -1,1 +1,1 @@
-export default 'Samuel Cummings'
+export default 'Dr. Cecilia Greenholt'
