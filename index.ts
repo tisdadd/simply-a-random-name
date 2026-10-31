@@ -1,1 +1,1 @@
-export default 'Jimmy Yundt'
+export default 'Kristina McDermott'
