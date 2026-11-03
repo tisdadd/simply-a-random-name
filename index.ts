@@ -1,1 +1,1 @@
-export default 'Leon Kuhic'
+export default 'Dr. Daniel Schaden'
