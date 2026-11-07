@@ -1,1 +1,1 @@
-export default 'Jamie Wuckert'
+export default 'Wanda Wehner'
