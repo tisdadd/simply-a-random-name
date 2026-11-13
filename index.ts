@@ -1,1 +1,1 @@
-export default 'Beth Medhurst'
+export default 'Mae Moore'
