@@ -1,1 +1,1 @@
-export default 'Mae Moore'
+export default 'Earl Spinka'
