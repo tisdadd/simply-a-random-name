@@ -1,1 +1,1 @@
-export default 'Earl Spinka'
+export default 'Earnest Stokes'
