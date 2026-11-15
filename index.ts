@@ -1,1 +1,1 @@
-export default 'Kate Dare'
+export default 'Max Lemke'
