@@ -1,1 +1,1 @@
-export default 'Tony Hermann II'
+export default 'Kari Wisoky-Kuphal'
