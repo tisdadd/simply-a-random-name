@@ -1,1 +1,1 @@
-export default 'Sonya Ward DVM'
+export default 'Thomas Torphy-Feeney'
