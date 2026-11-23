@@ -1,1 +1,1 @@
-export default 'Dixie Johnston'
+export default 'George Hayes'
