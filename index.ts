@@ -1,1 +1,1 @@
-export default 'Clay Cummerata'
+export default 'Wanda Hackett'
